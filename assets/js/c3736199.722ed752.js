@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpipelines=self.webpackChunkpipelines||[]).push([[9241],{4204:e=>{e.exports=JSON.parse('{"permalink":"/pipelines/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
