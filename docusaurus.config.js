@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Bhardwaj-Himanshu', // Usually your GitHub org/user name.
-  projectName: 'Test-File', // Usually your repo name.
+  projectName: 'pipelines', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
