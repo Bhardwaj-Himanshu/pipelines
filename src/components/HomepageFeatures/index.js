@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on errors',
+    title: 'Does it work?',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
